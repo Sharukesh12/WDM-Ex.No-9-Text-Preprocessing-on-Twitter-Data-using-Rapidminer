@@ -1,5 +1,4 @@
 # WDM-Ex.No-9-Text-Preprocessing-on-Twitter-Data-using-Rapidminer
-## Name: Adhithya K
 ## DATE:
 **AIM:**<br>
 To implement preprocessing technique on Twitter Data using Rapidminer<br>
